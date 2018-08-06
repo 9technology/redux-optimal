@@ -10,7 +10,7 @@
     "optimize",
     "optimise"
   ],
-  "author": "Nine",
+  "author": "9Technology <opensource@nine.com.au>",
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0"

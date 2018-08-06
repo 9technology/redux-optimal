@@ -1,7 +1,7 @@
 {
   "name": "redux-optimal",
   "version": "0.1.0",
-  "description": "React Redux optimisation tool. Filter reducers and middleware with O(1) efficiency on inclusion and exclusion or through custom fileter functions.",
+  "description": "Redux optimisation tool. Filter reducers and middleware with O(1) efficiency on inclusion and exclusion or through custom filter functions.",
   "main": "src/index.js",
   "keywords": [
     "react",
@@ -11,7 +11,7 @@
     "optimise"
   ],
   "author": "Nine",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0"
   }

@@ -12,6 +12,10 @@
   ],
   "author": "9Technology <opensource@nine.com.au>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9technology/redux-optimal"
+  },
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0"
   }

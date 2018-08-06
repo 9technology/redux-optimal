@@ -1,6 +1,6 @@
 {
   "name": "redux-optimal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Redux optimisation tool. Filter reducers and middleware with O(1) efficiency on inclusion and exclusion or through custom filter functions.",
   "main": "src/index.js",
   "keywords": [
